@@ -79,7 +79,7 @@ Console
 </div>
 <p>La console permet d’évaluer directement des expressions en JS ou encore d’afficher des messages à partir d’un programme.</p>
 <p>Pour évaluer des expressions il suffit de les taper sur la ligne de commande :
-<img src="/420-211/images/console.png" alt="console"></p>
+<img src="./Images/console.png" alt="console"></p>
 <p>Pour afficher des messages à partir d’un programme il faut utiliser <code>console.log()</code> dans le programme, comme ceci:</p>
 <p><em><strong>monProgramme.js:</strong></em></p>
 <div class="highlight gdoc-post__codecontainer"><span class="flex align-center justify-center clip gdoc-post__codecopy" data-clipboard-text="console.log(&quot;Message à la console&quot;);" data-copy-feedback="Copied!" role="button" aria-label="Copy"><svg class="gdoc-icon copy"><use xlink:href="#gdoc_copy"></use></svg><svg class="gdoc-icon check hidden"><use xlink:href="#gdoc_check"></use></svg></span><pre tabindex="0" class="chroma"><code class="language-js" data-lang="js"><span class="line"><span class="cl"><span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="s2">"Message à la console"</span><span class="p">);</span>
