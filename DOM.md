@@ -58,7 +58,7 @@
 </span></span><span class="line"><span class="cl">    <span class="p">&lt;/</span><span class="nt">body</span><span class="p">&gt;</span>
 </span></span><span class="line"><span class="cl"><span class="p">&lt;/</span><span class="nt">html</span><span class="p">&gt;</span>
 </span></span></code></pre></div><p>Ce qui correspond au modèle suivant:</p>
-<p><img src="/420-211/images/dom.svg" alt="dom"></p>
+<p><img src="./Images/dom.svg" alt="dom"></p>
 <div class="gdoc-page__anchorwrap">
     <h2 id="objet-document">
         Objet <code>document</code>
