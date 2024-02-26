@@ -2,7 +2,7 @@ Débogage JS
 Exécution de scripts JS 
 
 Javascript est un langage qui s’exécute dans le navigateur. Les programmes JS peuvent être directement inclus dans des balises HTML <script>, comme suit:
-
+![alt text](/public/assets/exemple.png)
 index.html
 
 <!DOCTYPE html>
