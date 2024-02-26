@@ -148,7 +148,6 @@
 </span></span><span class="line"><span class="cl"><span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>    
 </span></span></code></pre></div><p>on aura la disposition suivante:</p>
 <p><img src="./Images/grid1.png" alt="grille"></p>
-<p><a class="gdoc-markdown__link" href="/420-211/ressources/exemple-grille.html">(exemple)</a></p>
 <div class="gdoc-page__anchorwrap">
     <h1 id="transitions">
         Transitions
@@ -199,11 +198,6 @@
 </span></span><span class="line"><span class="cl">        <span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
 </span></span><span class="line"><span class="cl">    <span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
 </span></span><span class="line"><span class="cl"><span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>    
-</span></span></code></pre></div><p><a class="gdoc-markdown__link" href="/420-211/ressources/exemple-responsive.html">(exemple)</a></p>
-
-
-
-
 
 <blockquote class="gdoc-hint note">
   <div class="gdoc-hint__title flex align-center"><i class="fa note" title="Note"></i></div>
@@ -250,7 +244,7 @@
 </span></span><span class="line"><span class="cl">        <span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
 </span></span><span class="line"><span class="cl">    <span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
 </span></span><span class="line"><span class="cl"><span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>    
-</span></span></code></pre></div><p><a class="gdoc-markdown__link" href="/420-211/ressources/exemple-responsive2.html">(exemple)</a></p>
+
 <div class="gdoc-page__anchorwrap">
     <h1 id="composantes">
         Composantes
@@ -383,7 +377,7 @@
 </span></span><span class="line"><span class="cl">        Pied
 </span></span><span class="line"><span class="cl">    <span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
 </span></span><span class="line"><span class="cl"><span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
-</span></span></code></pre></div><p><a class="gdoc-markdown__link" href="./Images/Exemple.png">(exemple)</a></p>
+
 
   </article>
 
