@@ -95,7 +95,7 @@ Débogueur
 </div>
 <p>Les outils de développement de Firefox incluent un débogueur; parmi ses fonctionnalités il y a les <em><strong>points d’arrêt</strong></em> qui permettent de suspendre le flot d’exécution du programme et d’y inspecter les valeurs des variables. Ceci est très utile pour de détecter la cause des erreurs qui apparaissent au moment de l’exécution.</p>
 <p>Pour mettre en pause un programme lorsqu’il arrive à une instruction donnée, il suffit de cliquer sur la marge de la ligne correspondante, ce qui crée un point d’arrêt (représenté par un marqueur bleu). Lors du rechargement de la page, l’exécution sera suspendue à cet endroit et les valeurs des variables (ici, <code>i: 1</code> et <code>limite: 1000</code>) seront affichées:</p>
-<p><img src="./Images/debug-bp.png" alt="debug-bp"></p>
+<p><img src="../Images/debug-bp.png" alt="debug-bp"></p>
 <ul>
 <li>La touche <strong>F10</strong> permet de passer à la prochaine instruction et ainsi de poursuivre ligne par ligne l’exécution du programme.</li>
 <li>La touche <strong>F8</strong> continue l’exécution du programme. Évidemment, puisqu’ici le point d’arrêt est dans une boucle, le programme sera de nouveau suspendu à la prochaine itération.</li>
