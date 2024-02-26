@@ -72,7 +72,7 @@
 </span></span><span class="line"><span class="cl">    <span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
 </span></span><span class="line"><span class="cl"><span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
 </span></span></code></pre></div><p>on aura la disposition suivante:</p>
-<p><img src="/420-211/images/struct.svg" alt="struct"></p>
+<p><img src="../Images/struct.svg" alt="struct"></p>
 <div class="gdoc-page__anchorwrap">
     <h2 id="container">
         <code>container</code>
@@ -147,7 +147,7 @@
 </span></span><span class="line"><span class="cl">    <span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
 </span></span><span class="line"><span class="cl"><span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>    
 </span></span></code></pre></div><p>on aura la disposition suivante:</p>
-<p><img src="/420-211/images/grid1.png" alt="grille"></p>
+<p><img src="../Images/grid1.png" alt="grille"></p>
 <p><a class="gdoc-markdown__link" href="/420-211/ressources/exemple-grille.html">(exemple)</a></p>
 <div class="gdoc-page__anchorwrap">
     <h1 id="transitions">
