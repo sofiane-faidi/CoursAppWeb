@@ -67,8 +67,6 @@
 </span></span><span class="line"><span class="cl">    <span class="p">&lt;/</span><span class="nt">body</span><span class="p">&gt;</span>
 </span></span><span class="line"><span class="cl"><span class="p">&lt;/</span><span class="nt">html</span><span class="p">&gt;</span>
 </span></span></code></pre></div><blockquote>
-<p><a class="gdoc-markdown__link" href="/420-211/ressources/css-ex.html">Fichier HTML source</a><br>
-<a class="gdoc-markdown__link" href="/420-211/ressources/styles-intro.css">Fichier CSS source</a></p>
 </blockquote>
 <p>Une référence complète des propriétés CSS est disponible sur le site <a class="gdoc-markdown__link" href="https://www.w3schools.com/cssref/index.php">https://www.w3schools.com/cssref/index.php</a>.</p>
 
