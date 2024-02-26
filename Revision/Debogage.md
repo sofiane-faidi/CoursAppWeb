@@ -79,12 +79,12 @@ Console
 </div>
 <p>La console permet d’évaluer directement des expressions en JS ou encore d’afficher des messages à partir d’un programme.</p>
 <p>Pour évaluer des expressions il suffit de les taper sur la ligne de commande :
-<img src="./Images/console.png" alt="console"></p>
+<img src="../Images/console.png" alt="console"></p>
 <p>Pour afficher des messages à partir d’un programme il faut utiliser <code>console.log()</code> dans le programme, comme ceci:</p>
 <p><em><strong>monProgramme.js:</strong></em></p>
 <div class="highlight gdoc-post__codecontainer"><span class="flex align-center justify-center clip gdoc-post__codecopy" data-clipboard-text="console.log(&quot;Message à la console&quot;);" data-copy-feedback="Copied!" role="button" aria-label="Copy"><svg class="gdoc-icon copy"><use xlink:href="#gdoc_copy"></use></svg><svg class="gdoc-icon check hidden"><use xlink:href="#gdoc_check"></use></svg></span><pre tabindex="0" class="chroma"><code class="language-js" data-lang="js"><span class="line"><span class="cl"><span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="s2">"Message à la console"</span><span class="p">);</span>
 </span></span></code></pre></div><p>Au chargement de la page (et donc, de l’exécution du script JS), on verra le message apparaître:
-<img src="./Images/console-log.png" alt="console-log"></p>
+<img src="../Images/console-log.png" alt="console-log"></p>
 <div class="gdoc-page__anchorwrap">
 <h3 id="débogueur">
 Débogueur
@@ -101,7 +101,7 @@ Débogueur
 <li>La touche <strong>F8</strong> continue l’exécution du programme. Évidemment, puisqu’ici le point d’arrêt est dans une boucle, le programme sera de nouveau suspendu à la prochaine itération.</li>
 </ul>
 <p>Il est possible d’associer des <em>conditions</em> aux points d’arrêt afin que le programme s’arrête seulement lorsque les variables ont une valeur spécifique. Pour ce faire il faut se placer sur la ligne du point d’arrêt et faire <code>CTRL-Maj-B</code>, puis définir la condition:</p>
-<p><img src="./Images/debug-bpcond.png" alt="debug-bpcond"></p>
+<p><img src="../Images/debug-bpcond.png" alt="debug-bpcond"></p>
 <p>Les points d’arrêt conditionnels sont identifiés par un marqueur <strong>jaune</strong>.</p>
 
 </article>
