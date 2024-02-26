@@ -35,7 +35,7 @@
 </div>
 <p>Afin d’accéder à ce serveur de développement, vous devez vous connecter sur le réseau interne du département.</p>
 <p>Après avoir ouvert votre session Windows, modifiez la connexion réseau physique de votre poste de travail comme dans l’image qui suit:</p>
-<p><img src="/420-211/images/conn-eth.jpg" alt="conn-eth"></p>
+<p><img src="../Images/conn-eth.jpg" alt="conn-eth"></p>
 <p>Dans ce réseau, vous avez accès à internet, mais les ressources du Collège sont limitées.</p>
 
 
