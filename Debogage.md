@@ -84,7 +84,7 @@ Console
 <p><em><strong>monProgramme.js:</strong></em></p>
 <div class="highlight gdoc-post__codecontainer"><span class="flex align-center justify-center clip gdoc-post__codecopy" data-clipboard-text="console.log(&quot;Message à la console&quot;);" data-copy-feedback="Copied!" role="button" aria-label="Copy"><svg class="gdoc-icon copy"><use xlink:href="#gdoc_copy"></use></svg><svg class="gdoc-icon check hidden"><use xlink:href="#gdoc_check"></use></svg></span><pre tabindex="0" class="chroma"><code class="language-js" data-lang="js"><span class="line"><span class="cl"><span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="s2">"Message à la console"</span><span class="p">);</span>
 </span></span></code></pre></div><p>Au chargement de la page (et donc, de l’exécution du script JS), on verra le message apparaître:
-<img src="/420-211/images/console-log.png" alt="console-log"></p>
+<img src="./Images/console-log.png" alt="console-log"></p>
 <div class="gdoc-page__anchorwrap">
 <h3 id="débogueur">
 Débogueur
@@ -95,13 +95,13 @@ Débogueur
 </div>
 <p>Les outils de développement de Firefox incluent un débogueur; parmi ses fonctionnalités il y a les <em><strong>points d’arrêt</strong></em> qui permettent de suspendre le flot d’exécution du programme et d’y inspecter les valeurs des variables. Ceci est très utile pour de détecter la cause des erreurs qui apparaissent au moment de l’exécution.</p>
 <p>Pour mettre en pause un programme lorsqu’il arrive à une instruction donnée, il suffit de cliquer sur la marge de la ligne correspondante, ce qui crée un point d’arrêt (représenté par un marqueur bleu). Lors du rechargement de la page, l’exécution sera suspendue à cet endroit et les valeurs des variables (ici, <code>i: 1</code> et <code>limite: 1000</code>) seront affichées:</p>
-<p><img src="/420-211/images/debug-bp.png" alt="debug-bp"></p>
+<p><img src="./Images/debug-bp.png" alt="debug-bp"></p>
 <ul>
 <li>La touche <strong>F10</strong> permet de passer à la prochaine instruction et ainsi de poursuivre ligne par ligne l’exécution du programme.</li>
 <li>La touche <strong>F8</strong> continue l’exécution du programme. Évidemment, puisqu’ici le point d’arrêt est dans une boucle, le programme sera de nouveau suspendu à la prochaine itération.</li>
 </ul>
 <p>Il est possible d’associer des <em>conditions</em> aux points d’arrêt afin que le programme s’arrête seulement lorsque les variables ont une valeur spécifique. Pour ce faire il faut se placer sur la ligne du point d’arrêt et faire <code>CTRL-Maj-B</code>, puis définir la condition:</p>
-<p><img src="/420-211/images/debug-bpcond.png" alt="debug-bpcond"></p>
+<p><img src="./Images/debug-bpcond.png" alt="debug-bpcond"></p>
 <p>Les points d’arrêt conditionnels sont identifiés par un marqueur <strong>jaune</strong>.</p>
 
 </article>
