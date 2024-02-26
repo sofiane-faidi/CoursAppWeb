@@ -1,6 +1,4 @@
 ## Heading
-
-<!DOCTYPE  html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>file_1708965041925</title><style type="text/css"> * {margin:0; padding:0; text-indent:0; }
  body { background-color: #343A40; }
  h1 { color: #CED3D8; font-family:Arial, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 20pt; }
