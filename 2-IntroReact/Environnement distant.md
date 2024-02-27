@@ -55,9 +55,9 @@
         </a>
     </h2>
 </div>
-<p>Votre serveur est identifié par votre prénom suivi du domaine “.lan”, par exemple <em><strong>olivier.lan</strong></em>. L’application <em>React</em> de base et la librairie <em>Bootstrap</em> y sont installées. Pour vous connecter au serveur à partir de <em>VSCode</em> pour la première fois, vous devez créer la connexion comme suit:</p>
+<p>Votre serveur est identifié par votre prénom suivi du domaine “.lan”, par exemple <em><strong>sofiane.lan</strong></em>. L’application <em>React</em> de base et la librairie <em>Bootstrap</em> y sont installées. Pour vous connecter au serveur à partir de <em>VSCode</em> pour la première fois, vous devez créer la connexion comme suit:</p>
 <p><img src="../Images/newconnection.png" alt="newconnection"></p>
-<p>Puis choisir <code>+ Add New SSH Host...</code> dans les options disponibles. Entrez ensuite la commande de connexion sur votre serveur. Par exemple pour le serveur <em>olivier.lan</em>, la commande est la suivante:</p>
+<p>Puis choisir <code>+ Add New SSH Host...</code> dans les options disponibles. Entrez ensuite la commande de connexion sur votre serveur. Par exemple pour le serveur <em>sofiane.lan</em>, la commande est la suivante:</p>
 <p><img src="../Images/commandeconnect.png" alt="commandeconnect"></p>
 <p>Puis sélectionnez le fichier de votre choix pour sauvegarder les informations de connexion.</p>
 
