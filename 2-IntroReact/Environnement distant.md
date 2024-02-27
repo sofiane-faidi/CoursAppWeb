@@ -1,27 +1,9 @@
 <div class="gdoc-page">
-          
-  
-
-
-  
-
-
-
-
-
-
-<div class="gdoc-page__header flex flex-wrap
-  
-    justify-end
-  
+<div class="gdoc-page__header flex flex-wrap 
+    justify-end  
   hidden-mobile
-  hidden" itemprop="breadcrumb">
-  
-  
+  hidden" itemprop="breadcrumb"> 
 </div>
-
-
-
   <article class="gdoc-markdown gdoc-markdown__align--left">
     <h1>Environnement distant</h1>
     <p>Dans ce qui suit nous allons configurer VSCode pour qu’il se connecte directement sur un serveur distant utilisé pour le développement. C’est cette configuration qui est utilisée en classe.</p>
@@ -37,11 +19,6 @@
 <p>Après avoir ouvert votre session Windows, modifiez la connexion réseau physique de votre poste de travail comme dans l’image qui suit:</p>
 <p><img src="../Images/conn-eth.jpg" alt="conn-eth"></p>
 <p>Dans ce réseau, vous avez accès à internet, mais les ressources du Collège sont limitées.</p>
-
-
-
-
-
 <blockquote class="gdoc-hint note">
   <div class="gdoc-hint__title flex align-center"><i class="fa note" title="Attention"></i></div>
   <div class="gdoc-hint__text">A la fin du cours, n’oubliez pas de rebrancher le câble sur le réseau du Collège!</div>
@@ -55,16 +32,11 @@
         </a>
     </h2>
 </div>
-<p>Votre serveur est identifié par votre prénom suivi du domaine “.lan”, par exemple <em><strong>olivier.lan</strong></em>. L’application <em>React</em> de base et la librairie <em>Bootstrap</em> y sont installées. Pour vous connecter au serveur à partir de <em>VSCode</em> pour la première fois, vous devez créer la connexion comme suit:</p>
+<p>Votre serveur est identifié par votre prénom suivi du domaine “.lan”, par exemple <em><strong>sofiane.lan</strong></em>. L’application <em>React</em> de base et la librairie <em>Bootstrap</em> y sont installées. Pour vous connecter au serveur à partir de <em>VSCode</em> pour la première fois, vous devez créer la connexion comme suit:</p>
 <p><img src="../Images/newconnection.png" alt="newconnection"></p>
-<p>Puis choisir <code>+ Add New SSH Host...</code> dans les options disponibles. Entrez ensuite la commande de connexion sur votre serveur. Par exemple pour le serveur <em>olivier.lan</em>, la commande est la suivante:</p>
+<p>Puis choisir <code>+ Add New SSH Host...</code> dans les options disponibles. Entrez ensuite la commande de connexion sur votre serveur. Par exemple pour le serveur <em>sofiane.lan</em>, la commande est la suivante:</p>
 <p><img src="../Images/commandeconnect.png" alt="commandeconnect"></p>
 <p>Puis sélectionnez le fichier de votre choix pour sauvegarder les informations de connexion.</p>
-
-
-
-
-
 <blockquote class="gdoc-hint note">
   <div class="gdoc-hint__title flex align-center"><i class="fa note" title="Note"></i></div>
   <div class="gdoc-hint__text">Le mot de passe initial est <code>abc-123</code>; il est fortement recommandé de le changer. Pour ce faire utilisez la commande <code>passwd</code> à partir du terminal.</div>
@@ -84,9 +56,6 @@
 npm start" data-copy-feedback="Copied!" role="button" aria-label="Copy"><svg class="gdoc-icon copy"><use xlink:href="#gdoc_copy"></use></svg><svg class="gdoc-icon check hidden"><use xlink:href="#gdoc_check"></use></svg></span><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="nb">cd</span> /var/www
 </span></span><span class="line"><span class="cl">npm start
 </span></span></code></pre></div>
-
-
-
 
 <blockquote class="gdoc-hint caution">
   <div class="gdoc-hint__title flex align-center"><i class="fa caution" title="Attention"></i></div>
