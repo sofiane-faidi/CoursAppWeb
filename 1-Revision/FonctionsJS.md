@@ -1,27 +1,11 @@
 <div class="gdoc-page">
           
-  
-
-
-  
-
-
-
-
-
-
-<div class="gdoc-page__header flex flex-wrap
-  
+<div class="gdoc-page__header flex flex-wrap  
     justify-end
   
   hidden-mobile
-  hidden" itemprop="breadcrumb">
-  
-  
+  hidden" itemprop="breadcrumb">    
 </div>
-
-
-
   <article class="gdoc-markdown gdoc-markdown__align--left">
     <h1>Fonctions JS</h1>
     <div class="gdoc-page__anchorwrap">
@@ -80,9 +64,6 @@ console.log(&quot;la somme est:&quot;, somme(10,30)); // Appel" data-copy-feedba
 </span></span><span class="line"><span class="cl"><span class="p">}</span>
 </span></span></code></pre></div>
 
-
-
-
 <blockquote class="gdoc-hint caution">
   <div class="gdoc-hint__title flex align-center"><i class="fa caution" title="Attention"></i></div>
   <div class="gdoc-hint__text">Dans l’exemple précédent <code>auto</code> n’est pas le nom d’une fonction: c’est le nom d’une variable qui contient une définition de fonction. On pourrait croire que c’est la même chose (et dans bien des cas, les deux sont utilisées de la même manière), mais dans certaines circonstances la différence est importante.</div>
@@ -96,14 +77,10 @@ console.log(&quot;la somme est:&quot;, somme(10,30)); // Appel" data-copy-feedba
 </span></span><span class="line"><span class="cl"><span class="p">}</span>
 </span></span></code></pre></div>
 
-
-
-
 <blockquote class="gdoc-hint tip">
   <div class="gdoc-hint__title flex align-center"><i class="fa tip" title="Important"></i></div>
   <div class="gdoc-hint__text">Pour appeler une fonction anonyme, il faut invoquer la variable qui la contient suivie de parenthèses (et de ses arguments s’il y en a) par exemple: <code>auto()</code>, <code>somme(10,40)</code>. L’appel d’une fonction anonyme est donc semblable à l’appel d’une fonction ordinaire.</div>
 </blockquote>
-
 
   </article>
 
