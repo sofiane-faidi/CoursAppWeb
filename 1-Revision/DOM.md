@@ -1,27 +1,10 @@
 <div class="gdoc-page">
-          
-  
-
-
-  
-
-
-
-
-
-
-<div class="gdoc-page__header flex flex-wrap
-  
-    justify-end
-  
+<div class="gdoc-page__header flex flex-wrap 
+  justify-end 
   hidden-mobile
   hidden" itemprop="breadcrumb">
   
-  
 </div>
-
-
-
   <article class="gdoc-markdown gdoc-markdown__align--left">
     <h1>DOM</h1>
     <div class="gdoc-page__anchorwrap">
